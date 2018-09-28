@@ -4,12 +4,18 @@ Repository连接方法
 
 方法1：  
 
-#创建新文件夹
-mkdir xxx
-#进入
-cd xxx 
-#初始化Git仓库 
-git init
+#创建新文件夹  
+
+mkdir xxx  
+
+#进入  
+
+cd xxx  
+
+#初始化Git仓库   
+
+git init  
+
 #提交改变到缓存
 git commit -m 'description'
 #本地git仓库关联GitHub仓库 
