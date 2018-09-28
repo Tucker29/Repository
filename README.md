@@ -25,7 +25,7 @@ git push -u origin master
 ## 方法2：  
 
 #从GitHub上克隆项目到本地   
-git clone git@github.com:han1202012/NDKHelloworld.git #注意克隆的时候直接在仓库根目录即可, 不用再创建项目根目录 ;  
+git clone git@github.com:han1202012/NDKHelloworld.git #注意克隆的时候直接在仓库根目录即可, 不用再创建项目根目录;  
 
 #进入上面clone的目录下面  
 cd NDKHelloworld  
