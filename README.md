@@ -31,12 +31,12 @@ git clone git@github.com:han1202012/NDKHelloworld.git #注意克隆的时候直�
 cd NDKHelloworld  
 
 #添加文件 
-git add ./*  # 将目录中所有文件添加;  
+git add ./*  # 将目录中所有文件添加  
 
 #提交缓存 
-git commit -m '提交';  
+git commit -m '提交'  
 
 #提交到远程GitHub仓库 
-git push -u origin master ;
+git push -u origin master
 
 ---------------------
